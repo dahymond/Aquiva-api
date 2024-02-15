@@ -1,0 +1,8 @@
+[flake8]
+exclude = 
+    migrations,
+    __pycache__,
+    manage.py,
+    settings.py
+
+ignore = E501, F401, E261, E262, W293, F401, E261, E262, F401, E261, E262, E303, W292
